@@ -2,11 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://niboobin.github.io/241saurus/blog/</id>
     <title>241saurus Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-04-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://niboobin.github.io/241saurus/blog/"/>
     <subtitle>241saurus Blog</subtitle>
     <icon>https://niboobin.github.io/241saurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pop Quiz]]></title>
+        <id>https://niboobin.github.io/241saurus/blog/POP-QUIZ/</id>
+        <link href="https://niboobin.github.io/241saurus/blog/POP-QUIZ/"/>
+        <updated>2024-04-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is our POP QUIZ posting!]]></summary>
+        <content type="html"><![CDATA[<p>This is our POP QUIZ posting!</p>
+<p>-- niboobin and OmarK2804.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>
+<p>This writing is hidden below the "truncate" tag.</p>]]></content>
+        <author>
+            <name>Obin Mandalika</name>
+            <email>obinnmandalikaa@gmail.com</email>
+            <uri>https://github.com/niboobin</uri>
+        </author>
+        <author>
+            <name>Omar Khalif</name>
+            <uri>https://github.com/OmarK2084</uri>
+        </author>
+        <category label="POPQUIZ" term="POPQUIZ"/>
+        <category label="WEEK07" term="WEEK07"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://niboobin.github.io/241saurus/blog/welcome/</id>
