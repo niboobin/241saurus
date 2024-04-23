@@ -14,15 +14,7 @@
         <updated>2024-04-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is our POP QUIZ posting!]]></summary>
         <content type="html"><![CDATA[<p>This is our POP QUIZ posting!</p>
-<p>-- niboobin and OmarK2804.</p>
-<p>This writing is hidden below the "truncate" tag.</p>
-<p>This writing is hidden below the "truncate" tag.</p>
-<p>This writing is hidden below the "truncate" tag.</p>
-<p>This writing is hidden below the "truncate" tag.</p>
-<p>This writing is hidden below the "truncate" tag.</p>
-<p>This writing is hidden below the "truncate" tag.</p>
-<p>This writing is hidden below the "truncate" tag.</p>
-<p>This writing is hidden below the "truncate" tag.</p>
+<p>-- Obin Mandalika, Omar Khalif, and Daril Rafansyah</p>
 <p>This writing is hidden below the "truncate" tag.</p>
 <p>This writing is hidden below the "truncate" tag.</p>]]></content>
         <author>
@@ -32,6 +24,10 @@
         </author>
         <author>
             <name>Omar Khalif</name>
+            <uri>https://github.com/OmarK2804</uri>
+        </author>
+        <author>
+            <name>Daril Rafansyah</name>
             <uri>https://github.com/OmarK2804</uri>
         </author>
         <category label="POPQUIZ" term="POPQUIZ"/>
